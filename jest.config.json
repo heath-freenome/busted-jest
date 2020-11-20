@@ -1,0 +1,4 @@
+{
+  "testMatch": ["**/?(*.)+(test).[jt]s?(x)"],
+  "testEnvironment": "jest-environment-jsdom-global"
+}
