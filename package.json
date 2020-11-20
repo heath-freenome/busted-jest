@@ -5,8 +5,7 @@
     "jest-css-modules": "^2.1.0",
     "jest-environment-jsdom-global": "^2.0.4",
     "jest-enzyme": "^7.1.2",
-    "jest-expect-message": "^1.0.2",
-    "jest-fetch-mock": "^3.0.3"
+    "jest-expect-message": "^1.0.2"
   },
   "scripts": {
     "test": "jest --config jest.config.json"
